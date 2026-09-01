@@ -1,1 +1,1 @@
-# AI-ChatBot-for-College-Students
+# Student attendance & fee-management system
